@@ -9,5 +9,6 @@ export const styles = StyleSheet.create({
   title: {
     color: '#000000',
     fontSize: 32,
+    fontFamily: 'BaiJamjuree-Bold',
   },
 });
